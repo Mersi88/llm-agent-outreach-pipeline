@@ -1,0 +1,4 @@
+anthropic
+googlemaps
+requests
+python-dotenv

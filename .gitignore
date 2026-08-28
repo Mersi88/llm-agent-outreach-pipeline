@@ -1,0 +1,30 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.Python
+venv/
+.venv/
+env/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+
+# Claude Code local session config
+.claude/
+
+# Logs
+*.log
+leads/
+clients/
+logs/
